@@ -1,0 +1,16 @@
+body{
+width: 80%;
+color : #00008B;
+background-image: url('terkep.jpg');
+margin-top: 20px ;
+font-family: Sans-serif ;
+
+}
+h1{
+
+	font-weight: bold;
+	text-align:center;
+}
+div{
+	text-align: center;
+}
